@@ -1,8 +1,5 @@
 #ifndef __BOARD_H__
-#define __BOARD_H__
-
-#include <vector>
-#include <iostream>
+#define __BOARD_H__#include <iostream>
 
 //#include "View.h"
 #include "Player.h"
